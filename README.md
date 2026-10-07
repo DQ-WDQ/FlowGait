@@ -30,3 +30,9 @@ If you use this dataset, please cite our paper:
   year      = {2026},
   doi       = {10.1145/3772318.3790623}
 }
+
+## Related Work: RDGait
+
+Also check out our earlier work, [RDGait](https://github.com/DQ-WDQ/RDGait), on mmWave gait recognition in complex indoor environments. Its publicly available dataset includes 125 participants across two indoor scenarios and five walking behaviors, with multiple radar representations: range-Doppler stacks, micro-Doppler spectrograms, range-time spectrograms, and point clouds.
+
+👉 [Dataset and documentation](https://github.com/DQ-WDQ/RDGait)
